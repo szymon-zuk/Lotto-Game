@@ -1,10 +1,9 @@
-# Zadanie-2---Warsztat
-Zadanie 2 - Symulator LOTTO
+#Lotto-Game
+Symulator Lotto
+This application simulates the operation of LOTTO - the player should enter 6 numbers in the range from 1 to 49 inclusive. If more than 3 numbers repeat with those chosen by the computer, the player wins.
 
-Ta aplikacja symuluje działanie LOTTO - gracz powinien wprowadzić 6 liczb w zakresie od 1 do 49 włącznie. Jeśli więcej
-niż 3 liczby powtórzą się z wybranymi przez komputer - gracz wygrywa.
+Execution instructions:
 
-Instrukcja uruchomienia:
-1. Przejdź w terminalu do katalogu z plikiem 'exercise_2.py'
-2. Wpisz polecenie <code>python3 exercise_2.py</code>
-3. Wykonuj polecenia wyświetlane na ekranie.
+1. Go to the directory with the 'lotto_simulator.py' file in the terminal.
+2. Enter the command `python3 lotto_simulator.py`.
+3. Follow the instructions displayed on the screen.
